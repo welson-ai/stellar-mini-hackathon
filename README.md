@@ -2,7 +2,7 @@
 
 A multi-level Stellar dApp demonstrating wallet integration, Soroban smart contracts, and transaction management on the Stellar Testnet.
 
-## 🚀 Level 1: Stellar Basics
+##  Level 1: Stellar Basics
 This level covers the fundamental interactions with the Stellar network.
 
 ### Features
@@ -11,8 +11,9 @@ This level covers the fundamental interactions with the Stellar network.
 - **Testnet Funding**: Fund new accounts using Friendbot.
 - **XLM Transactions**: Send XLM to other Stellar addresses.
 
-### Screenshots Placeholder
-- **Wallet connected state**: `[Attach Screenshot Here]`
+### Screenshots
+- **Wallet connected state**: `[Attach Screenshot ![Uploading 2630F57E-6717-4F6F-A767-CDD59B551A9F.jpeg…]()
+Here]`
 - **Balance displayed**: `[Attach Screenshot Here]`
 - **Successful testnet transaction**: `[Attach Screenshot Here]`
 - **The transaction result is shown to the user**: `[Attach Screenshot Here]`
