@@ -12,9 +12,10 @@ This level covers the fundamental interactions with the Stellar network.
 - **XLM Transactions**: Send XLM to other Stellar addresses.
 
 ### Screenshots
-- **Wallet connected state**: `[Attach Screenshot ![Uploading 2630F57E-6717-4F6F-A767-CDD59B551A9F.jpeg…]()
+- **Wallet connected state**: `[Attach Screenshot ![2630F57E-6717-4F6F-A767-CDD59B551A9F](https://github.com/user-attachments/assets/4f454ebb-fab5-4f0f-9bff-f9e2ef33c1da)
 Here]`
-- **Balance displayed**: `[Attach Screenshot Here]`
+- **Balance displayed**: `[![Uploading 2630F57E-6717-4F6F-A767-CDD59B551A9F.jpeg…]()
+]`
 - **Successful testnet transaction**: `[Attach Screenshot Here]`
 - **The transaction result is shown to the user**: `[Attach Screenshot Here]`
 
