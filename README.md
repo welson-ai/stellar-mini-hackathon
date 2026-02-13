@@ -14,7 +14,7 @@ This level covers the fundamental interactions with the Stellar network.
 ### Screenshots
 
 #### Wallet Setup
-![Wallet Setup](images/screenshot1.png)
+![Wallet Setup](images/Screenshot1.png)
 
 #### Wallet Connection
 ![Wallet Connection](images/screenshot2.jpeg)
