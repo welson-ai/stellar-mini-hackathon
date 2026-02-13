@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stellar Sparkle ✨</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/style.e308ff8e.css">
+<script src="/style.e308ff8e.js"></script></head>
+<body>
+    <div class="container">
+        <h1>Stellar Sparkle ✨</h1>
+        <p class="subtitle">Level 2 - Blue Belt Mastery</p>
+
+        <!-- Wallet Section -->
+        <div id="wallet-info" class="card-section">
+            <h2><span class="icon">🔌</span> Wallets Kit</h2>
+            
+            <div id="not-connected">
+                <p style="text-align: center; color: var(--text-dim); margin-bottom: 1.5rem;">Select a wallet to begin your Stellar journey.</p>
+                <button id="connect-wallet">Connect Wallet</button>
+            </div>
+
+            <div id="connected" style="display: none;">
+                <div class="info-row">
+                    <span class="label">Connected with <span id="wallet-name" style="color: var(--primary-color);"></span></span>
+                    <span id="public-key" class="value">Not connected</span>
+                </div>
+
+                <div class="balance-display">
+                    <span id="balance">0.00</span> <span style="font-size: 1.2rem; color: var(--text-dim);">XLM</span>
+                </div>
+
+                <div class="button-row">
+                    <button id="fund-account" class="secondary-btn">Fund Account</button>
+                    <button id="disconnect-wallet" class="danger-btn">Disconnect</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Contract Section -->
+        <div id="contract-section" class="card-section" style="display: none;">
+            <h2><span class="icon">💎</span> Soroban Counter</h2>
+            
+            <div class="counter-display">
+                <span id="contract-count">?</span>
+                <p style="font-size: 0.8rem; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1px;">Current Count</p>
+            </div>
+
+            <div class="button-row">
+                <button id="refresh-count" class="secondary-btn">Refresh</button>
+                <button id="increment-count">Increment +1</button>
+            </div>
+
+            <div class="deploy-info" style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid rgba(255,255,255,0.05);">
+                <div class="info-row">
+                    <span class="label">Contract ID</span>
+                    <span id="contract-id" class="value">Not deployed</span>
+                </div>
+                <button id="deploy-contract" class="small-btn secondary-btn" style="width: 100%; margin-top: 0.5rem;">Deploy New Instance</button>
+            </div>
+        </div>
+
+        <!-- Transaction Section -->
+        <div id="transaction" class="card-section">
+            <h2><span class="icon">🚀</span> Quick Send</h2>
+            <div class="input-group">
+                <span class="label">Destination Address</span>
+                <input type="text" id="destination" placeholder="G...">
+            </div>
+            <div class="input-group">
+                <span class="label">Amount (XLM)</span>
+                <input type="number" id="amount" placeholder="0.00">
+            </div>
+            <button id="send-xlm" disabled="">Send Assets</button>
+        </div>
+
+        <div id="status-display" class="status-msg" style="display: none;"></div>
+    </div>
+
+    <!-- Wallet Selection Modal -->
+    <div id="wallet-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <h3 style="text-align: center; margin-bottom: 1rem;">Connect Wallet</h3>
+            <div id="wallet-options">
+                <!-- Options will be injected by JS -->
+            </div>
+            <button id="close-modal" class="secondary-btn">Cancel</button>
+        </div>
+    </div>
+
+    <script src="/script.75da7f30.js"></script>
+</body>
+</html>
