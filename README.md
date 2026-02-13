@@ -12,10 +12,15 @@ This level covers the fundamental interactions with the Stellar network.
 - **XLM Transactions**: Send XLM to other Stellar addresses.
 
 ### Screenshots
-- **Wallet connected state**: 
-- **Balance displayed**: 
-- **Successful testnet transaction**: `[Attach Screenshot Here]`
-- **The transaction result is shown to the user**: `[Attach Screenshot Here]`
+
+#### Wallet Setup
+![Wallet Setup](images/screenshot1.png)
+
+#### Wallet Connection
+![Wallet Connection](images/screenshot2.jpeg)
+
+#### Funding Testnets
+![Funding Testnets](images/screenshot3.png)
 
 ## 💎 Level 2 Checklist Verification
 This project satisfies all the requirements for Level 2:
