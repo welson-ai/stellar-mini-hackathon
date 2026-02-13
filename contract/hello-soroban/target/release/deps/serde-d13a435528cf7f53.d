@@ -1,0 +1,14 @@
+/Users/h/Documents/trae_projects/stellar/contract/hello-soroban/target/release/deps/serde-d13a435528cf7f53.d: /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/h/Documents/trae_projects/stellar/contract/hello-soroban/target/release/build/serde-f38c046c64e10375/out/private.rs
+
+/Users/h/Documents/trae_projects/stellar/contract/hello-soroban/target/release/deps/libserde-d13a435528cf7f53.rlib: /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/h/Documents/trae_projects/stellar/contract/hello-soroban/target/release/build/serde-f38c046c64e10375/out/private.rs
+
+/Users/h/Documents/trae_projects/stellar/contract/hello-soroban/target/release/deps/libserde-d13a435528cf7f53.rmeta: /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/h/Documents/trae_projects/stellar/contract/hello-soroban/target/release/build/serde-f38c046c64e10375/out/private.rs
+
+/Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/h/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/h/Documents/trae_projects/stellar/contract/hello-soroban/target/release/build/serde-f38c046c64e10375/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/h/Documents/trae_projects/stellar/contract/hello-soroban/target/release/build/serde-f38c046c64e10375/out
